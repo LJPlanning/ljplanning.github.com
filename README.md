@@ -1,5 +1,5 @@
 # 这里是本博客的简单概述 🤘🤘🤘
-博客访问地址[https://ljplanning.github.io](https://ljplanning.github.io/)
+博客访问地址[https://ljplanning.github.io](https://ljplanning.github.io)
 [![GitHub stars](https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/LJPlanning/ljplanning.github.io/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/LJPlanning/ljplanning.github.io/network)
 [![GitHub issues](https://img.shields.io/github/issues/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/LJPlanning/ljplanning.github.io/issues)
