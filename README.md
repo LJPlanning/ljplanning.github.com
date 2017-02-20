@@ -1,9 +1,9 @@
 # 这里是本博客的简单概述 🤘🤘🤘
 博客访问地址[https://ljplanning.github.io](https://ljplanning.github.io)
-[![GitHub stars](https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/LJPlanning/ljplanning.github.io/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/LJPlanning/ljplanning.github.io/network)
-[![GitHub issues](https://img.shields.io/github/issues/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/LJPlanning/ljplanning.github.io/issues)
-[![GitHub release](https://img.shields.io/github/release/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/LJPlanning/ljplanning.github.io/releases)
+[![GitHub stars](https://img.shields.io/github/stars/LJPlanning/ljplanning.github.io.svg)](https://github.com/LJPlanning/ljplanning.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/LJPlanning/ljplanning.github.io.svg)](https://github.com/LJPlanning/ljplanning.github.io/network)
+[![GitHub issues](https://img.shields.io/github/issues/LJPlanning/ljplanning.github.io.svg)](https://github.com/LJPlanning/ljplanning.github.io/issues)
+[![GitHub release](https://img.shields.io/github/release/LJPlanning/ljplanning.github.io.svg)](https://github.com/LJPlanning/ljplanning.github.io/releases)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Gaohaoyang/LJPlanning/ljplanning.io/master/LICENSE)
 
 ## 年份归类
@@ -15,5 +15,6 @@
 ## 标签分类
 标签分类是比较细的研究主题，比如利用什么工具与语言实现一个具体功能等
 
-## 收藏与案例演示页，主要使用了该框架的提供者的一些案例，目前还处于学习中。该框架的提供者的GitHub主页[gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io )
+## 收藏与案例演示页
+收藏与案例演示页主要使用了该框架的提供者的一些案例，目前还处于学习中。该框架的提供者的GitHub主页[gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io )
 
